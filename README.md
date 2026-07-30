@@ -14,9 +14,13 @@ This repository is more than just a website—it's a snapshot of my journey as a
 ## 🛠️ Built With
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Responsive Web Design
+
 Modern UI/UX Principles
 
 ## 🌱 Why This Portfolio?
