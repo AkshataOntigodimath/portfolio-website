@@ -1,4 +1,4 @@
-# portfolio-website
+# My personal portfolio
 # 👋 Welcome to My Portfolio
 
 This repository is more than just a website—it's a snapshot of my journey as a developer. It showcases the projects I've built, the technologies I've explored, and the skills I've gained through continuous learning and hands-on experience.
